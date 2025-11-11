@@ -1,0 +1,16 @@
+chatbot/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.git
+.gitignore
+.vscode/
+.idea/
+*.md
+.ipynb_checkpoints/
+analysis/
