@@ -6,7 +6,7 @@ for directory in directories:
     os.makedirs(directory, exist_ok=True)
     print(f"Created directory: {directory}")
 
-# Create files
+# Create file
 files = [
     'src/__init__.py',
     'src/helper.py',
@@ -28,3 +28,6 @@ for file in files:
     print(f"Created file: {file}")
 
 print("\n Directory and files are successfully created")
+
+
+
